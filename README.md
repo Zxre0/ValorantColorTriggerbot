@@ -11,3 +11,6 @@ Please note that this triggerbot is for educational purposes only and may not be
 
 This simple triggerbot is hopefully a way for Riot Games to develop a way to detect triggerbotters in-game
 
+blackbox ai helped a lot making this
+www.useblackbox.io/
+

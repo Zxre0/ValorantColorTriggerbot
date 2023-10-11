@@ -19,6 +19,9 @@ print("  ")
 print("This simple triggerbot is hopefully a way for Riot Games to develop a way to detect triggerbotters in game")
 print(" ")
 
+print("FOR EDUCATIONAL PURPOSES ONLY I AM NOT RESPONSIBLE FOR ANY BANS!!!")
+print("  ")
+
 print("Press F1 to toggle the triggerbot")
 print("Press Ctrl+C to exit")
 

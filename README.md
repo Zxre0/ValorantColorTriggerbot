@@ -14,3 +14,4 @@ This simple triggerbot is hopefully a way for Riot Games to develop a way to det
 blackbox ai helped a lot making this
 www.useblackbox.io/
 
+THIS CODE IS UNDER GNU LICENSE IF YOU PASTE/MODIFY OFF OF THIS PROGRAM HAS TO BE FREE FOR EVERYONE

@@ -1,5 +1,7 @@
 # ValorantColorTriggerbot
 
+INSTALL PYTHON 3x and INSTALL AFTER INSTALL THIS pip install pynput pyautogui
+
 FOR EDUCATIONAL PURPOSES ONLY I AM NOT RESPONSIBLE FOR ANY BANS!!!
 
 please dont paste off of this its awful code
